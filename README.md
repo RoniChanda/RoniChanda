@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif)](https://supratimchanda97.netlify.app/)
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Supratim Chanda</h1>
 
 <p align="center">
