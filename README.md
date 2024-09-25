@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Supratim Chanda</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronichanda&label=Profile%20views&color=0e75b6&style=flat" alt="ronichanda" /> </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+Developer;JavaScript+and+Python;Chess+Player;Gamer;NGO+Member;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+Developer;MERN+Developer;JavaScript+and+Python;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Coder | Chess Player | NGO Member
 </p>
 
 - 🔭 I’m currently working on **BookBetter App**
