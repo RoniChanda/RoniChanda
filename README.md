@@ -4,7 +4,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+Developer;MERN+Developer;JavaScript+and+Python;" alt="Typing SVG" />
 </p>
-
 <p align="center">
   Coder | Chess Player | NGO Member
 </p>
