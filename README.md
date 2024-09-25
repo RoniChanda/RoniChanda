@@ -10,25 +10,48 @@
 <h2 align="center">💫 About Me</h2>
 <p align="center">I am a Full Stack Developer with expertise in the MERN stack and a strong focus on React. I’m passionate about building dynamic, user-centered applications and continuously expanding my skill set. Recently, I’ve been learning new technologies like TypeScript and Next.js, and I plan to dive into AWS, Three.js, and AI in the near future. Staying current with industry trends is essential for creating innovative solutions. Outside of development, I am actively involved in an NGO, where I contribute my skills to support community initiatives. I’m also a chess enthusiast and gamer, which helps sharpen my analytical skills and strategic thinking. I’m always eager to learn and grow, and I look forward to connecting with others in the tech community!</p>
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQF_GQBPe3v4PA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1712068145310?e=2147483647&v=beta&t=YaCB87ukopRysA4thCQBpz0Ti-mzgAy-R0QFlKK_-vg">
+<img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/v2/D4E12AQF_GQBPe3v4PA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1712068145310?e=2147483647&v=beta&t=YaCB87ukopRysA4thCQBpz0Ti-mzgAy-R0QFlKK_-vg">
 
-🔭 I’m currently working on BookBetter App<br>🌱 I’m currently learning TypeScript<br>👨‍💻 Visit my portfolio https://supratimchanda97.netlify.app<br>💬 Ask me about JavaScript, React, MERN<br>📫 How to reach me suprachanda97@gmail.com
+- 🔭 I’m currently working on **BookBetter App**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/s_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="s_chanda" height="30" width="40" /></a>
-<a href="https://twitter.com/supratimchanda2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supratimchanda2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/supratimchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supratimchanda" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ronichanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ronichanda" height="30" width="40" /></a>
-<a href="https://fb.com/supratim.chanda.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supratim.chanda.58" height="30" width="40" /></a>
-<a href="https://instagram.com/supratimchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supratimchanda" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning **TypeScript**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 👨‍💻 Visit my portfolio [https://supratimchanda97.netlify.app](https://supratimchanda97.netlify.app)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronichanda&show_icons=true&locale=en&layout=compact" alt="ronichanda" /></p>
+- 💬 Ask me about **JavaScript, React, MERN**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronichanda&show_icons=true&locale=en" alt="ronichanda" /></p>
+- 📫 How to reach me **suprachanda97@gmail.com**
+<br />
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronichanda&" alt="ronichanda" /></p>
+<div align="center">
+ <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoniChanda&theme=github_dark&hide_border=false" alt="Github Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RoniChanda&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+ </table>
+</div>
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoniChanda&custom_title=Supratim's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+ 
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniChanda&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoniChanda&theme=github_dark&hide_border=false" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoniChanda&theme=github_dark&hide_border=false" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+</div>
+
