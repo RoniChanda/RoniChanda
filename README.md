@@ -8,15 +8,8 @@
   Coder | Chess Player | NGO Member
 </p>
 
-- 🔭 I’m currently working on **BookBetter App**
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 Visit my portfolio [https://supratimchanda97.netlify.app](https://supratimchanda97.netlify.app)
-
-- 💬 Ask me about **JavaScript, React, MERN**
-
-- 📫 How to reach me **suprachanda97@gmail.com**
+# 💫 About Me:
+🔭 I’m currently working on BookBetter App<br>🌱 I’m currently learning TypeScript<br>👨‍💻 Visit my portfolio https://supratimchanda97.netlify.app<br>💬 Ask me about JavaScript, React, MERN<br>📫 How to reach me suprachanda97@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
