@@ -18,8 +18,10 @@
 
 - 👨‍💻 Visit my portfolio [https://supratimchanda97.netlify.app](https://supratimchanda97.netlify.app)
 
-- 💬 Ask me about **JavaScript, React, MERN**
+- 💬 Ask me about **JavaScript, React, Node, MERN**
 
+- 😁 I love eating **Burger** 🍔
+ 
 - 📫 How to reach me **suprachanda97@gmail.com**
 <br />
 <h2 align="center">📊 GitHub Stats</h2>
