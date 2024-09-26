@@ -10,7 +10,7 @@
 <h2 align="center">💫 About Me</h2>
 <p align="center">I am a Full Stack Developer with expertise in the MERN stack and a strong focus on React. I’m passionate about building dynamic, user-centered applications and continuously expanding my skill set. Recently, I’ve been learning new technologies like TypeScript and Next.js, and I plan to dive into AWS, Three.js, and AI in the near future. Staying current with industry trends is essential for creating innovative solutions. Outside of development, I am actively involved in an NGO, where I contribute my skills to support community initiatives. I’m also a chess enthusiast and gamer, which helps sharpen my analytical skills and strategic thinking. I’m always eager to learn and grow, and I look forward to connecting with others in the tech community!</p>
 
-<img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/v2/D4E12AQF_GQBPe3v4PA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1712068145310?e=2147483647&v=beta&t=YaCB87ukopRysA4thCQBpz0Ti-mzgAy-R0QFlKK_-vg">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 - 🔭 I’m currently working on **BookBetter App**
 
